@@ -1,4 +1,4 @@
-![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/Ventura.jpg)
+![image](https://github.com/JOJOJ812/MSI-B560---hackintosh/blob/master/Picture/status.jpeg)
 ## 概述
 
 疑问解答请提交issus
